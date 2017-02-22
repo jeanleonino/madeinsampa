@@ -1,5 +1,6 @@
 {
   "name": "madeinsampa",
   "dependencies": {
+    "leaflet": "^1.0.0"
   }
 }

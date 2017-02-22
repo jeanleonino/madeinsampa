@@ -7,6 +7,9 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('mapa');
+  this.route('admin');
+  this.route('envie');
 });
 
 export default Router;

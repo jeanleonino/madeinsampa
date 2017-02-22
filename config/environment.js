@@ -2,6 +2,12 @@
 
 module.exports = function(environment) {
   var ENV = {
+    firebase: {
+      apiKey: 'AIzaSyCbEKQaqEgx_3F_GDFogmy52rbFdccKYQI',
+      authDomain: 'madeinsampa-ca597.firebaseapp.com',
+      databaseURL: 'https://madeinsampa-ca597.firebaseio.com',
+      storageBucket: 'madeinsampa-ca597.appspot.com',
+    },
     modulePrefix: 'madeinsampa',
     environment: environment,
     rootURL: '/',

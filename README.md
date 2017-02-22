@@ -1,7 +1,13 @@
 # madeinsampa
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Mapa interativo do MadeInSampa. Feito com Ember.js e Firebase.
+
+## Rotas
+
+* []() - Página inicial
+* []() - Mapa em si
+* []() - Formulário para envio de um estabelecimento
+* []() - Página dos administradores
 
 ## Prerequisites
 
@@ -38,10 +44,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 * `ember build` (development)
 * `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
